@@ -3,5 +3,6 @@ public class demo041 {
         System.out.println("Hello demo04!");
         System.out.println("push!");
         System.out.println("pull!");
+        System.out.println("gitee push");
     }
 }
